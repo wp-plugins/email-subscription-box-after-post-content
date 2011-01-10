@@ -1,0 +1,40 @@
+.fform{
+background:url('images/bg.png') no-repeat;
+height:200px;
+width:500px;
+margin:0 auto;
+}
+.btn{
+background:url('images/subscribe-bt.png') no-repeat !important;
+height:36px;
+width:135px;
+border:none;
+outline:none;
+position:absolute;
+top:87px;
+cursor:pointer;
+}
+.emsb{
+float:left;
+text-align:left;
+position:relative;
+left:20px;
+top:60px;
+}
+.txt{
+font-family:"Trebucant MS",Arial;
+font-weight:bold;
+text-align:left;
+
+}
+
+.emsb-rss{
+float:right;
+background:url('images/rss.png') no-repeat;
+width:89px;
+height:92px;
+position:relative;
+top:66px;
+right:38px;
+
+}
